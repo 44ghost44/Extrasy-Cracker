@@ -1,10 +1,10 @@
-# Extrasy-Cracker
+# Extasy-Cracker
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ---
 
-**Extrasy-Cracker** es una herramienta diseñada para descifrar/hackear hashes (como contraseñas encriptadas) de manera sencilla y rápida, ideal para estudiantes, entusiastas de la seguridad, CTFs o quienes están comenzando en el mundo del hacking ético y la ciberseguridad.
+**Extasy-Cracker** es una herramienta diseñada para descifrar/hackear hashes (como contraseñas encriptadas) de manera sencilla y rápida, ideal para estudiantes, entusiastas de la seguridad, CTFs o quienes están comenzando en el mundo del hacking ético y la ciberseguridad.
 
 ---
 
